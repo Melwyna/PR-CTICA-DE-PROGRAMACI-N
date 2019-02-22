@@ -1,0 +1,6 @@
+n1_1=input("ingrese el primer numero:")
+n2_2=input("ingrese el segundo numero:")
+n1=float(n1_1)
+n2=float(n2_2)
+divi=(n1/n2)
+print("El resultado de la division es:", divi)
